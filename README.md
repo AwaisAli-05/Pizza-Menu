@@ -2,14 +2,6 @@
 
 A modern and responsive pizza menu application built with **React.js**. The application displays a restaurant's menu with pizza details, prices, availability status, and opening hours using reusable React components.
 
-## 📸 Preview
-
-![Fast React Pizza Co.](./public/screenshot.png)
-
-> Replace `screenshot.png` with your project's screenshot if needed.
-
----
-
 ## ✨ Features
 
 - 🍕 Display a dynamic pizza menu
@@ -45,7 +37,7 @@ fast-react-pizza/
 │   ├── App.js
 │   ├── index.js
 │   ├── index.css
-│   └── components/
+│
 │
 ├── package.json
 └── README.md

@@ -94,13 +94,6 @@ This project helped me practice:
 
 ---
 
-## 📸 Screenshots
-
-### Menu
-
-(Add your screenshots here)
-
----
 
 ## 🔮 Future Improvements
 
@@ -117,12 +110,12 @@ This project helped me practice:
 
 ## 👨‍💻 Author
 
-**Allamdar Ali**
+**Muhammad Awais**
 
 - Cybersecurity Student
 - React Frontend Developer
 
-GitHub: https://github.com/your-username
+GitHub:  https://github.com/AwaisAli-05
 
 ---
 

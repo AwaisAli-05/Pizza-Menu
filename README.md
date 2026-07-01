@@ -116,7 +116,7 @@ This project helped me practice:
 - React Frontend Developer
 
 GitHub:  https://github.com/AwaisAli-05
-
+linkedin: https://www.linkedin.com/in/muhammad-awais-a48259328/
 ---
 
 ## 📄 License
